@@ -1,0 +1,17 @@
+{
+    "name": "myuniq-ui",
+    "version": "0.0.0",
+    "main": "myuniq.umd.js",
+    "module": "myuniq.mjs",
+    "author": "lh12138",
+    "description": "第一次手写组件库QAQ",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lgrdf/myuniq.git"
+    },
+    "keywords": ["vue3", "组件库", "tsx", "UI"],
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/myuniq/issues"
+    }
+  }
